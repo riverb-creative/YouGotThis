@@ -7,7 +7,7 @@ footer {
     background-color: coral;
     position: fixed;
     inset-inline: 0;
-    inset-block-end: 0;
+    inset-block-start: 0;
     inline-size: 100%;
 }
 

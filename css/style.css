@@ -17,8 +17,8 @@ header {
     position: fixed;
     inset-inline: 0;
     inset-block-start: 0;
-    inset-block-end: 2px;
     inline-size: auto;
+    padding-block-end: 2px;
 }
 
 h2 {

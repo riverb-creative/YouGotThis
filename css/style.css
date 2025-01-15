@@ -14,4 +14,8 @@ footer {
 header {
     text-align: center;
     background-color: #aeb6bf;
+    position: fixed;
+    inset-inline: 0;
+    inset-block-end: 0;
+    inline-size: 100%;
 }

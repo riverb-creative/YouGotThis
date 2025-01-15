@@ -1,5 +1,12 @@
-footer p {
+body {
+    background-color: #6aa06e;
+}
+footer {
     text-align: center;
     padding: 5px;
     background-color: coral;
+}
+
+header {
+    text-align: center;
 }

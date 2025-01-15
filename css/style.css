@@ -18,9 +18,8 @@ header {
     inset-inline: 0;
     inset-block-start: 0;
     inline-size: auto;
-    padding-block-end: 2px;
 }
 
 h2 {
-    
+    padding-block-start: 2px;
 }

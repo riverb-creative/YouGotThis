@@ -15,7 +15,6 @@ header h1{
     text-align: center;
     background-color: #aeb6bf;
     position: fixed;
-    inset-block-end: 0;
     inset-inline: 0;
     inline-size: 100%;
 }

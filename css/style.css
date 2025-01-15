@@ -21,6 +21,7 @@ header {
 }
 
 h1 {
+    position: fixed;
     margin-block-start: 0;
 }
 

@@ -11,7 +11,7 @@ footer {
     inline-size: auto;
 }
 
-header {
+header h1{
     text-align: center;
     background-color: #aeb6bf;
     position: fixed;

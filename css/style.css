@@ -15,11 +15,13 @@ header {
     text-align: center;
     background-color: #aeb6bf;
     margin-block-start: 0;
+    position: fixed;
     inset-inline: 0;
     inline-size: auto;
 }
 
 h1 {
+    position: fixed;
     margin-block-start: 0;
 }
 

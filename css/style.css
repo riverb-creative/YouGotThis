@@ -17,6 +17,7 @@ header {
     margin-block-start: 0;
     inset-inline: 0;
     inset-block-start: 0;
+    position: fixed;
     inline-size: auto;
 }
 

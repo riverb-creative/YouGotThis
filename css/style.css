@@ -14,12 +14,11 @@ footer {
 header {
     text-align: center;
     background-color: #aeb6bf;
-    position: fixed;
+    margin-block-start: 0;
     inset-inline: 0;
     inline-size: auto;
 }
 
 h2 {
-    padding-top: 10px;
     text-align: center;
 }

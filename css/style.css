@@ -6,8 +6,8 @@ footer {
     padding: 5px;
     background-color: coral;
     position: fixed;
-    border-left: 0;
-    border-bottom: 0;
+    inset-inline-start: 0;
+    inset-inline-end: 0;
     inline-size: 100%;
 }
 

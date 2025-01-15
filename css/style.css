@@ -1,11 +1,12 @@
 html {
+    position: relative;
     background-color: #93c796;
 }
 footer {
     text-align: center;
     padding: 5px;
     background-color: coral;
-    position: fixed;
+    position: absolute;
     inset-inline: 0;
     inset-block-end: 0;
     inline-size: auto;
@@ -17,7 +18,7 @@ header {
     margin-block-start: 0;
     inset-inline: 0;
     inset-block-start: 0;
-    position: static;
+    position: absolute;
     inline-size: auto;
 }
 

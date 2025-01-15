@@ -4,7 +4,9 @@ html {
 footer {
     text-align: center;
     padding: 5px;
-    background-color: coral;;
+    background-color: coral;
+    inset-inline: 0;
+    inset-block-end: 0;
 }
 
 header {

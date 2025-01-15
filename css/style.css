@@ -5,7 +5,7 @@ footer {
     text-align: center;
     padding: 5px;
     background-color: coral;
-    position: absolute;
+    position: fixed;
     inset-inline: 0;
     inset-block-end: 0;
 }

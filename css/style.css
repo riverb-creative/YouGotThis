@@ -5,7 +5,7 @@ html {
 footer {
     text-align: center;
     padding: 5px;
-    background-color: #f1f5f1;
+    background-color: #e9ece9;
     inset-inline: 0;
     inset-block-end: 0;
     position: absolute;
@@ -14,7 +14,7 @@ footer {
 
 header {
     text-align: center;
-    background-color: #f1f5f1;
+    background-color: #e9ece9;
     margin-block-start: 0;
     inset-inline: 0;
     inset-block-start: 0;
@@ -28,5 +28,6 @@ h2 {
 }
 
 p {
-    background-color: #f1f5f1;
+    background-color: #e9ece9;
+    padding: 1em;
 }

@@ -29,5 +29,5 @@ h2 {
 
 p {
     background-color: #e9ece9;
-    padding: 1em;
+    inset-inline: 1em;
 }

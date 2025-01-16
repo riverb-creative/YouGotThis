@@ -47,7 +47,6 @@ ul {
 li {
     text-align: center;
     list-style-type: lower-roman;
-    display: inline-block;
 }
 
 .accessIdeas {

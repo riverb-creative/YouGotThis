@@ -37,3 +37,15 @@ section {
     padding: 20px;
     text-align: center;
 }
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
+
+.sedgwick-ave-regular {
+    font-family: "Sedgwick Ave", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  

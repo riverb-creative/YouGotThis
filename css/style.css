@@ -13,6 +13,9 @@ footer {
 }
 
 header {
+    font-family: "Sedgwick Ave", serif;
+    font-weight: 400;
+    font-style: normal;
     text-align: center;
     background-color: #e9ece9;
     margin-block-start: 0;
@@ -38,13 +41,8 @@ section {
 }
 
 ul {
-    display: inline-block;
     text-align: center;
 }
 
-.sedgwick-ave-regular {
-    font-family: "Sedgwick Ave", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
+
   

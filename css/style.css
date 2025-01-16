@@ -42,12 +42,11 @@ section {
 
 ul {
     text-align: center;
-    display: inline-block;
 }
 
 li {
     text-align: center;
-    list-style-type: lower-roman;
+    list-style-type: none;
 }
 
 .accessIdeas {

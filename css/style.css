@@ -8,6 +8,7 @@ footer {
     background-color: coral;
     inset-inline: 0;
     inset-block-end: 0;
+    position: absolute;
     inline-size: auto;
 }
 

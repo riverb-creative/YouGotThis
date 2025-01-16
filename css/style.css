@@ -42,6 +42,7 @@ section {
 
 ul {
     text-align: center;
+    display: inline-block;
 }
 
 li {

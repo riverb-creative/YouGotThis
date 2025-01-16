@@ -18,7 +18,7 @@ header {
     font-style: normal;
     font-size: 1em;
     text-align: center;
-    background-color: #e9ece9;
+    background-color: #dfe3df;
     margin-block-start: 0;
     inset-inline: 0;
     inset-block-start: 0;
@@ -35,13 +35,13 @@ h3 {
 }
 
 p {
-    background-color: #e9ece9;
+    background-color: #dfe3df;
     padding: 20px;
     font-size: 1em;
 }
 
 section {
-    background-color: #e9ece9;
+    background-color: #dfe3df;
     padding: 20px;
 }
 

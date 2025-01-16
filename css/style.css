@@ -42,7 +42,11 @@ section {
 
 ul {
     text-align: center;
-    text-decoration: none;
+    list-style-type: lower-roman;
+}
+
+ul li {
+    text-align: center;
 }
 
 
